@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "No going back now 🎉💝💖💝💓",
+        title: "No going back now lol 🎉🎉",
         message: "See u on discord on 14th, 10000000 hugs and kisses vvvv soon!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
